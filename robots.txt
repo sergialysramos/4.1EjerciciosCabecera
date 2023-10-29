@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: /imagenes
+Allow: /
+Sitemap: sitemap.xml
